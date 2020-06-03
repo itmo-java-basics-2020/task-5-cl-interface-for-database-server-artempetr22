@@ -1,6 +1,6 @@
 # task5-classes-interfaces-enums
 
-[![Build Status](https://travis-ci.com/itmo-java-basics-2020/task5-classes-interfaces-enums-<you-github>.svg?branch=master)](https://travis-ci.com/itmo-java-basics-2020/task5-classes-interfaces-enums-<you-github>)
+[![Build Status](https://travis-ci.com/itmo-java-basics-2020/task5-classes-interfaces-enums-artempetr22.svg?branch=master)](https://travis-ci.com/itmo-java-basics-2020/task5-classes-interfaces-enums-artempetr22)
 
 Компания, где Вы работаете разрабатывает собственную СУБД типа ключ-значение. Требования к хранилищу простые - оно должно быть легковесным приложением на Java, которое позволяет долговечно (на диске) хранить пары ключ-значение и быстро (оценки производительность в данной работе не важны) возвращать значение по заданному ключу.
 
@@ -10,7 +10,7 @@
 
 ## Требования
 
-**Команда** - действие, которое может быть выполнено хранилищем. Характеризуется *именем* и *параметрами* команды. 
+**Командаа** - действие, которое может быть выполнено хранилищем. Характеризуется *именем* и *параметрами* команды. 
 
 **Параметр** - обязательный аргумент команды. В вашей реализации значение параметра задается без указания его имени и характеризуются только позицией в команде. (см. ниже)
 
